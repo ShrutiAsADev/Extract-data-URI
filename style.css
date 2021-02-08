@@ -1,0 +1,12 @@
+body {
+    font-size: 15pt;
+    font-family: sans-serif;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+#textarea{
+	margin: 0 auto;
+}
